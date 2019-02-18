@@ -10,8 +10,6 @@
     "redux",
     "webpack"
   ],
-  "author": "Yash Soni",
-  "license": "MIT",
   "devDependencies": {
     "babel-core": "^5.8.35",
     "babel-loader": "^5.4.0",
