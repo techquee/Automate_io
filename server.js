@@ -1,6 +1,3 @@
-/**
- * Created by Yash on 24/02/16.
- */
 
 var webpack = require('webpack');
 var WebpackDevServer = require('webpack-dev-server');

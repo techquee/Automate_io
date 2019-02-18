@@ -1,5 +1,5 @@
 {
-  "name": "Simple-Notes",
+  "name": "Note_Taker",
   "version": "1.0.0",
   "description": "A simple note taking app built using React-Redux.",
   "scripts": {
