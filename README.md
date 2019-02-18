@@ -1,8 +1,8 @@
-# React-Redux Note Taker
+## React-Redux Note Taker
 
 A simple note taking app.
 
-### Installation**
+### Installation
 
  1. Clone the repo and run `npm install`
  2. `npm start`
