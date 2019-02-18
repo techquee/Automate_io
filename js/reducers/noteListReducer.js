@@ -5,7 +5,7 @@ import constants from '../constants'
 
 function getNewNote() {
   return {
-    t: 'Untitled Text',
+    t: 'Default Note',
     c: '',
     d: +new Date(),
     id: uniqueId()

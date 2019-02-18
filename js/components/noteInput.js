@@ -9,7 +9,7 @@ let newBtnStyle = {
   position: 'absolute',
   bottom: '10px',
   right: '10px',
-  color: '#ebf442'
+  color: '#41464c'
 };
 
 export default React.createClass({
@@ -44,7 +44,7 @@ export default React.createClass({
           }}
           />
 
-        <FloatingActionButton backgroundColor={'#4caf50'} style={newBtnStyle} className="newNoteBtn"
+        <FloatingActionButton backgroundColor={'#41464c'} style={newBtnStyle} className="newNoteBtn"
                               onClick={_ => props.addNote()}>
           <ContentAdd />
         </FloatingActionButton>
